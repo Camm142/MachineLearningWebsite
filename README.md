@@ -1,8 +1,4 @@
-# COS30049 - Computing Technology Innovation Project
-
 ## Source code for Housing Market Website
-
-## Team 23 - KT Rolster
 
 This project is a comprehensive application that integrates a front-end user interface with a back-end server and AI model capabilities. We perform a housing market website using Machine Learning model to make prediction for you.
 
