@@ -1,0 +1,75 @@
+/* style for arrow button */
+.arrow-icon {
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    display: flex;
+    justify-content: flex-end;
+    cursor: pointer;
+    animation: sway 1.2s ease-in-out infinite;
+}
+
+.arrow-icon {
+  cursor: pointer;
+  font-size: 2rem;
+  color: #333;
+}
+
+@keyframes sway {
+  0% {
+  transform: translateX(0);
+  }
+  50% {
+  transform: translateX(10px);
+  }
+  100% {
+  transform: translateX(0);
+  }
+}
+
+/* chart description space  */
+.chart-desc{
+  margin-top: 30px;
+}
+
+/* smaller the size of chart  */
+.chart-container {
+  width: 80%;
+  max-width: 800px;
+  transition: opacity 0.3s ease; /* Smooth transition for fading */
+  opacity: 1;
+}
+
+/* add animation when change between charts  */
+.fade-in {
+  opacity: 0;
+  animation: fadeIn 0.6s ease-in-out forwards;
+}
+@keyframes slideIn {
+  from {
+      transform: translateX(-100%);
+      opacity: 0;
+  }
+  to {
+      transform: translateX(0);
+      opacity: 1;
+  }
+}
+
+
+/* responsive for different screen size  */
+
+@media (max-width: 768px) {
+  .chart-desc{
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 576px) {
+
+  .chart-desc{
+    font-size: 12px;
+  }
+}
+
+

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "predicted_result": 64.69,
+        "predicted_status": "Average",
+        "price": 100000.0,
+        "median_price": 100000.0,
+        "median_rental": 111
+    },
+    {
+        "id": 2,
+        "predicted_result": 70.47,
+        "predicted_status": "Average",
+        "price": 500.0,
+        "median_price": 700.0,
+        "median_rental": 40
+    },
+    {
+        "id": 3,
+        "predicted_result": 64.11,
+        "predicted_status": "Average",
+        "price": 800.0,
+        "median_price": 1000.0,
+        "median_rental": 10
+    },
+    {
+        "id": 4,
+        "predicted_result": 96.59,
+        "predicted_status": "Good",
+        "price": 700.0,
+        "median_price": 700.0,
+        "median_rental": 400
+    },
+    {
+        "id": 5,
+        "predicted_result": 82.64,
+        "predicted_status": "Good",
+        "price": 500.0,
+        "median_price": 500.0,
+        "median_rental": 100
+    }
+]

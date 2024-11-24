@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "house_data": {
+            "cbd_distance": 123.0,
+            "bedroom": 123,
+            "bathroom": 123,
+            "car_garage": 123,
+            "landsize": 123.0,
+            "building_area": 123.0,
+            "built_year": 1800,
+            "suburb_name": "Hampton East",
+            "prop_type": "t"
+        },
+        "predicted_price": 893348.85
+    },
+    {
+        "id": 2,
+        "house_data": {
+            "cbd_distance": 10.5,
+            "bedroom": 3,
+            "bathroom": 2,
+            "car_garage": 1,
+            "landsize": 400.0,
+            "building_area": 500.0,
+            "built_year": 1900,
+            "suburb_name": "Doncaster",
+            "prop_type": "u"
+        },
+        "predicted_price": 923357.8
+    },
+    {
+        "id": 3,
+        "house_data": {
+            "cbd_distance": 10.5,
+            "bedroom": 12,
+            "bathroom": 10,
+            "car_garage": 500,
+            "landsize": 400.0,
+            "building_area": 500.0,
+            "built_year": 2005,
+            "suburb_name": "Kurunjang",
+            "prop_type": "t"
+        },
+        "predicted_price": 969204.15
+    },
+    {
+        "id": 4,
+        "house_data": {
+            "cbd_distance": 0.0,
+            "bedroom": 1,
+            "bathroom": 1,
+            "car_garage": 0,
+            "landsize": 1.0,
+            "building_area": 500.0,
+            "built_year": 2024,
+            "suburb_name": "Other",
+            "prop_type": "u"
+        },
+        "predicted_price": 1152979.51
+    },
+    {
+        "id": 5,
+        "house_data": {
+            "cbd_distance": 1.0,
+            "bedroom": 3,
+            "bathroom": 2,
+            "car_garage": 1,
+            "landsize": 600.0,
+            "building_area": 600.0,
+            "built_year": 1800,
+            "suburb_name": "Bayswater",
+            "prop_type": "h"
+        },
+        "predicted_price": 2135351.37
+    },
+    {
+        "id": 6,
+        "house_data": {
+            "cbd_distance": 10.5,
+            "bedroom": 400,
+            "bathroom": 1,
+            "car_garage": 1,
+            "landsize": 400.0,
+            "building_area": 0.0,
+            "built_year": 2024,
+            "suburb_name": "Other",
+            "prop_type": "h"
+        },
+        "predicted_price": 1096210.49
+    },
+    {
+        "id": 7,
+        "house_data": {
+            "cbd_distance": 1.0,
+            "bedroom": 1,
+            "bathroom": 1,
+            "car_garage": 1,
+            "landsize": 1.0,
+            "building_area": 0.0,
+            "built_year": 1990,
+            "suburb_name": "Greensborough",
+            "prop_type": "t"
+        },
+        "predicted_price": 948827.88
+    }
+]

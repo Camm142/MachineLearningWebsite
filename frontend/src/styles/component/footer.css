@@ -1,0 +1,45 @@
+/* commont style for all footer  */
+footer {
+    background-color: #fd788b;
+    padding: 0;
+}
+
+.text{
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.sub-text{
+    color: #606060;
+}
+
+/* when hover social button, decrease the opacity */
+.fab:hover {
+    opacity: 50%;
+}
+
+/* small copyright at the bottom of footer  */
+.copyright{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    background-color: #feb1b2;
+}
+
+/* responsive  */
+@media (max-width: 991.98px) { /* Target tablet screens */
+    .text{
+        font-size: 16px;
+    }
+    .sub-text span{
+        font-size: 14px;
+    }
+
+    .copyright, .contact{
+        font-size: 14px;
+    }
+
+}
